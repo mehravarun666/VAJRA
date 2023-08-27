@@ -1,4 +1,4 @@
-# phoneauth_firebase
+# VAJRA
 
 A new Flutter project.
 
