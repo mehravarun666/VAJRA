@@ -4,6 +4,13 @@ Vigilance And Jurisdiction Real-time Analysis
 ## Description:
 VAJRA is a powerful Flutter-based application designed to enhance law enforcement monitoring and supervision. The application focuses on two main functionalities: dynamic duty monitoring using polyline tracing and static duty monitoring via geofencing on Google Maps. In addition to these core features, VAJRA also includes an alarm notification system that promptly alerts supervisors whenever a police officer violates geofence boundaries or deviates from assigned patrol routes.
 
+
+  ![Action Tracking App for two different user](https://github.com/mehravarun666/VAJRA/assets/108194170/a57df407-fc65-49f6-b0a7-114f836d2049)
+
+
+
+
+
 ## Key Features:
 
     Dynamic Duty Monitoring: VAJRA employs polyline tracing to track police officers' movements during their dynamic duties. This helps supervisors visualize officers' routes and ensure they follow designated paths effectively.
